@@ -149,6 +149,6 @@ To prevent this you can add this code to specify the PHP version you want to use
 
 *Demo Site URL is --> https://spynetcctv.com/jugaadpatches/
 
-*Admin (uid=1) credentials --> UserName <admin>-- password <admin123>
+*Admin (uid=1) credentials --> UserName = "admin" // password = "admin123"
 
 * Can find the database file inside the <db_jugaadpatches> folder.
